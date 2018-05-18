@@ -1,0 +1,22 @@
+{
+  "name": "workoutlogclient",
+  "version": "1.0.0",
+  "description": "default",
+  "main": "index.js",
+  "scripts": {
+    "test": "default",
+    "start": "node ./node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "WorkoutLog"
+  },
+  "keywords": [
+    "default"
+  ],
+  "author": "JT",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}

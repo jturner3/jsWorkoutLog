@@ -1,0 +1,25 @@
+{
+  "name": "workoutlogclient",
+  "description": "default",
+  "main": "index.js",
+  "authors": [
+    "JT"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "default"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
